@@ -4,7 +4,7 @@
 <h3 align="center">Desarrolladora de Software · Web Full Stack</h3>
 
 <p align="center">
-  Estudiante de Ingeniería en Computación apasionada por el desarrollo web.
+  Estudiante de noveno semestre de Ingeniería en Computación apasionada por el desarrollo web.
   Me gusta crear sitios e interfaces donde el diseño y la funcionalidad van de la mano:
   que se vean bien, pero sobre todo que funcionen de manera fluida y eficiente.
   Siempre estoy explorando nuevas tecnologías para construir proyectos geniales.
@@ -139,12 +139,18 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 
 ---
 
-## ✨ Un poco más de mí
+<h2 align="center">✨ Un poco más de mí</h2>
 
-<img align="left" height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle" width="30%">
+  <img height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
+</td>
+<td valign="middle" width="70%">
 
 ```diff
-+ Estudiante de Ingeniería en Computación
++ Estudiante de noveno semestre de Ingeniería en Computación
 + Desarrolladora web apasionada por el diseño
 + También he trabajado con Java, C#, Unity, Kotlin y MariaDB
 - Siempre buscando que todo se vea increíble y funcione perfecto
@@ -152,13 +158,17 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 # Desarrollo web · Frontend · Backend · Ingeniería de software
 ```
 
-<br clear="left" />
+</td>
+</tr>
+</table>
+</div>
 
 <p align="center">
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="128" alt="Flores de lavanda en pixel art" />
-  &nbsp;&nbsp;
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="128" alt="Flores de lavanda en pixel art" />
-  <br />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" alt="" />
