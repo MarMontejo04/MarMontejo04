@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AQUI_SU_USUARIO_GITHUB&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Mariana Montejo" />
+  <img src="https://komarev.com/ghpvc/?username=AQUI_SU_USUARIO_GITHUB&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Mariana Montejo](https://github.com/MarMontejo04)" />
 </p>
 
 
