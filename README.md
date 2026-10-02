@@ -25,15 +25,11 @@
 ### 🌐 Desarrollo Web Full Stack
 Aplicaciones web completas y dinámicas, integrando interfaces atractivas con lógica de negocio sólida en el backend.
 
-**Proyectos:** Sistema de Cine (PHP/MySQL), Inscripciones Escolares (Node.js/PostgreSQL) y Gestor de Referencias ICO.
-
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Frontend & UI/UX
 Interfaces limpias, adaptativas e interactivas, cuidando tanto la estética como la funcionalidad.
-
-**Proyectos:** Cliente Web Lonja de Veracruz (React) e interfaces con HTML5, CSS3 y Bootstrap.
 
 </td>
 </tr>
@@ -43,15 +39,11 @@ Interfaces limpias, adaptativas e interactivas, cuidando tanto la estética como
 ### 🔗 APIs REST & Backend
 Arquitecturas sólidas, bases de datos relacionales y NoSQL, y consumo eficiente de APIs.
 
-**Proyectos:** API REST Lonja de Veracruz (Node.js/MongoDB/Render) y desarrollo bajo arquitectura MVC.
-
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Videojuegos & POO
 Desarrollo con programación orientada a objetos y creación de proyectos interactivos en motores de videojuegos.
-
-**Tecnologías:** Unity, C# y Java.
 
 </td>
 </tr>
@@ -61,15 +53,11 @@ Desarrollo con programación orientada a objetos y creación de proyectos intera
 ### 🗄️ Bases de datos
 Diseño y consulta de bases de datos relacionales y no relacionales.
 
-**Tecnologías:** MySQL, MariaDB, PostgreSQL y MongoDB.
-
 </td>
 <td width="50%" valign="top">
 
 ### 🌿 Git & Organización técnica
 Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y toma de decisiones en arquitectura y resolución de problemas.
-
-**Enfoque:** control de versiones, organización de repositorios, resolución de conflictos y buenas prácticas.
 
 </td>
 </tr>
@@ -79,6 +67,8 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 
 ## 🛠️ Tecnologías
 
+### 🌐 Web
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-8E44AD?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-9B59B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -86,47 +76,15 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
   <img src="https://img.shields.io/badge/React-9B59B6?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-8E44AD?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Node.js-9B59B6?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-8E44AD?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-9B59B6?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/MySQL-8E44AD?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-9B59B6?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-8E44AD?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-9B59B6?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-8E44AD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Express-8E44AD?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-9B59B6?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Render-8E44AD?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
----
+### 💻 Software
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarMontejo04&show_icons=true&hide_border=true&title_color=8E44AD&icon_color=BB8FCE&text_color=9B59B6" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarMontejo04&layout=compact&hide_border=true&title_color=8E44AD&text_color=9B59B6" alt="Lenguajes más usados" />
-</p>
-
----
-
-## ✨ Un poco más de mí
-
-<img align="left" height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
-
-```diff
-+ Estudiante de Ingeniería en Computación
-+ Desarrolladora web apasionada por el diseño
-+ También he trabajado con Java, C#, Unity y MariaDB
-- Siempre buscando que todo se vea increíble y funcione perfecto
-! Programadora full stack, creadora de interfaces y entusiasta de UI/UX
-# Desarrollo web · Frontend · Backend · Ingeniería de software
-```
-
-<br clear="left" />
-
-<p align="center">
-  <i>🪻 Como las orquídeas: con paciencia, cuidado y mucho detalle 🌸</i>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" alt="" />
+<p>
+  <img src="https://img.shields.io/badge/Java-9B59B6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-9B59B6?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Kotlin-8E4
