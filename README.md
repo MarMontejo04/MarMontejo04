@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Lo que hago
+## 💜 Lo que hago
 
 <table>
 <tr>
@@ -104,56 +104,29 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 
 ---
 
-## ⭐ Proyectos destacados
+## 🚀 Proyectos Destacados
 
-### 🎬 1. [Sistema de Gestión de Cine y Simulación](https://github.com/MarMontejo04/proyecto-cine-ingenieria-software)
+### 🌐 Desarrollo Web
 
-- **Tipo:** Aplicación Web Full Stack
-- **Contexto:** Proyecto final de la asignatura Ingeniería de Software.
-- **Descripción:** Plataforma web completa para la administración de salas de cine y reserva de boletos en tiempo real. Permite consultar la cartelera por fecha, sala o categoría, ver tráilers, sinopsis y reparto, y reservar boletos seleccionando asientos en un mapa interactivo. Incluye panel administrativo para la gestión CRUD de funciones, películas, salas y control de disponibilidad.
-- **Tecnologías:** `PHP` `MySQL` `Bootstrap` `HTML5` `CSS3` `JavaScript`
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| 🎟️ **Sistema de Gestión de Cine y Simulación** | Plataforma web completa para la administración de salas de cine y reserva de boletos en tiempo real: cartelera por fecha, sala o categoría, tráilers, sinopsis y reparto, y selección de asientos en un mapa interactivo. Incluye panel administrativo con CRUD de funciones, películas y salas. Proyecto final de Ingeniería de Software. `PHP` `MySQL` `Bootstrap` `JavaScript` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/proyecto-cine-ingenieria-software) |
+| 🐟 **API REST - Compras Lonja de Veracruz** | API para la administración, registro y reportes diarios de compras de especies marinas y lotes. Endpoints para compradores, lotes, productos y transacciones, con arquitectura modular desplegada en la nube. `Node.js` `Express` `MongoDB` `Mongoose` `Render` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/rest_sistemalonja) |
+| 🖥️ **Cliente Web - Compras Lonja de Veracruz** | Dashboard en React que consume la API REST de la Lonja: inicio de sesión, registro de compras, filtrado de catálogos (especies, compradores, lotes) y consulta de reportes diarios. `React` `JavaScript` `HTML5` `CSS3` `Render` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/rest_cliente_sistemalonja) |
+| 🎓 **Sistema de Inscripciones Escolares** | Plataforma bajo el patrón MVC con control de acceso por roles (Alumno y Administrador). Filtra automáticamente las materias que el estudiante ya aprobó o cursó, y el panel administrativo permite CRUD de alumnos, materias, profesores y horarios. `Node.js` `Express` `PostgreSQL` `MVC` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/inscripciones_ico) |
+| 📚 **Referencias ICO** | Gestor bibliográfico académico para centralizar y consultar artículos, libros y documentos, con búsqueda avanzada por categoría o autor y registro de usuarios. Proyecto de Bases de Datos 2. `JavaScript` `HTML5` `CSS3` `SQL` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/referencias_ico) |
 
-### 🎮 2. [RPG 2D Tradicional (Estilo Clásico JRPG)](https://github.com/MarMontejo04/RPG)
+### 🎮 Videojuegos (Unity)
 
-- **Tipo:** Videojuego 2D
-- **Contexto:** Proyecto final de la asignatura Programación de Videojuegos 1.
-- **Descripción:** Videojuego RPG 2D de exploración y combate por turnos, inspirado en los primeros títulos de Final Fantasy. Cuenta con mapa de exploración, sistema de movimiento, diálogo con NPCs, gestión de inventario, control de estadísticas del jugador (vida y energía/PM), spawneo de enemigos y animaciones de batalla.
-- **Tecnologías:** `Unity` `C#` `Sprites/Animaciones 2D`
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| ⚔️ **RPG 2D Tradicional (estilo JRPG)** | Videojuego RPG 2D de exploración y combate por turnos inspirado en los primeros Final Fantasy: mapa de exploración, movimiento, diálogo con NPCs, inventario, estadísticas del jugador (vida y PM), spawneo de enemigos y animaciones de batalla. Proyecto final de Programación de Videojuegos 1. `Unity` `C#` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/RPG) |
 
-### 🐟 3. [API REST - Sistema de Compras Lonja de Veracruz](https://github.com/MarMontejo04/rest_sistemalonja)
+### 📱 Android
 
-- **Tipo:** Backend / API RESTful
-- **Contexto:** Sistema para la gestión y control operativo de compras pesqueras.
-- **Descripción:** API para la administración, registro y generación de reportes diarios en el proceso de compra de especies marinas y lotes. Proporciona endpoints para la gestión de compradores, lotes, productos y transacciones, con arquitectura modular optimizada para entornos de nube.
-- **Tecnologías:** `Node.js` `Express` `MongoDB` `Mongoose` `JavaScript` `Render (Despliegue)`
-
-### 🖥️ 4. [Cliente Web - Sistema de Compras Lonja de Veracruz](https://github.com/MarMontejo04/rest_cliente_sistemalonja)
-
-- **Tipo:** Frontend / Aplicación Web (SPA)
-- **Contexto:** Interfaz de usuario para la gestión interactiva del sistema de compras pesqueras.
-- **Descripción:** Dashboard web dinámico que consume la API REST de la Lonja de Veracruz. Permite el inicio de sesión de usuarios, el registro interactivo de compras, el filtrado de catálogos (especies, compradores, lotes) y la consulta y visualización de reportes diarios.
-- **Tecnologías:** `React` `JavaScript (ES6+)` `HTML5` `CSS3` `JSON` `Render (Despliegue)`
-
-### 🎓 5. [Sistema de Inscripciones Escolares con Validación](https://github.com/MarMontejo04/inscripciones_ico)
-
-- **Tipo:** Aplicación Web Full Stack
-- **Contexto:** Sistema académico para la automatización y control del proceso de inscripción escolar.
-- **Descripción:** Plataforma web estructurada bajo el patrón MVC con control de acceso por roles (Alumno y Administrador). Incorpora lógica para filtrar automáticamente del catálogo las materias que el estudiante ya aprobó o cursó. El panel administrativo permite realizar operaciones CRUD sobre alumnos, materias, profesores y horarios.
-- **Tecnologías:** `Node.js` `Express` `PostgreSQL` `JavaScript` `HTML5` `CSS3` `Arquitectura MVC`
-
-### 📚 6. [Referencias ICO - Gestor Bibliográfico Académico](https://github.com/MarMontejo04/referencias_ico)
-
-- **Tipo:** Aplicación Web / Gestor de Referencias
-- **Contexto:** Proyecto desarrollado para la asignatura Bases de Datos 2.
-- **Descripción:** Plataforma web enfocada en la centralización, almacenamiento y consulta de literatura e investigación académica (artículos, libros y documentos). Ofrece motor de búsqueda con filtros avanzados por categoría o autor, registro de usuarios y modelado de datos relacionales avanzado.
-- **Tecnologías:** `JavaScript` `HTML5` `CSS3` `SQL / Base de Datos Relacional`
-
-### 📱 7. [App Móvil Dragon Ball – Jetpack Compose](https://github.com/MarMontejo04/WikiDragon)
-
-- **Tipo:** Aplicación Móvil Nativa (Android)
-- **Contexto:** Aplicación interactiva de consulta de personajes y datos.
-- **Descripción:** Aplicación nativa Android con interfaz declarativa y moderna. Permite el registro e inicio de sesión de usuarios, la búsqueda en tiempo real de personajes o transformaciones y el consumo directo de la API REST pública de Dragon Ball.
-- **Tecnologías:** `Kotlin` `Android SDK` `Jetpack Compose` `REST API` `JSON`
+| Proyecto | Descripción | Repositorio |
+|---|---|---|
+| 🐉 **WikiDragon** | App nativa Android con interfaz declarativa: registro e inicio de sesión de usuarios, búsqueda en tiempo real de personajes o transformaciones y consumo de la API REST pública de Dragon Ball. `Kotlin` `Jetpack Compose` `REST API` | [![Ver repo](https://img.shields.io/badge/Ver%20repo-8E44AD?style=flat-square&logo=github&logoColor=white)](https://github.com/MarMontejo04/WikiDragon) |
 
 ---
 
