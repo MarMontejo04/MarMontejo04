@@ -89,14 +89,6 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 </table>
 </div>
 
-<p align="center">
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-</p>
-
 ---
 
 ## 🛠️ Tecnologías
@@ -169,6 +161,14 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarMontejo04&show_icons=true&hide_border=true&title_color=8E44AD&icon_color=BB8FCE&text_color=9B59B6" alt="Estadísticas de GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarMontejo04&layout=compact&hide_border=true&title_color=8E44AD&text_color=9B59B6" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" alt="" />
