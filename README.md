@@ -81,3 +81,18 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarMontejo04&show_icons=true&hide_border=true&theme=default"
+
+
+## ✨ Un poco más de mí
+
+<img align="left" height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
+
+```diff
++ Estudiante de Ingeniería en Computación
++ Desarrolladora web apasionada por el diseño
+- Siempre buscando que todo se vea increíble y funcione perfecto
+! Programadora full stack, creadora de interfaces y entusiasta de UI/UX
+# Desarrollo web · Frontend · Backend · Ingeniería de software
+```
+
+<br clear="left" />
