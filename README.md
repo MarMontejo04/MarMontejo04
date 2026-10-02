@@ -155,7 +155,10 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 <br clear="left" />
 
 <p align="center">
-  <i>🪻 Como las orquídeas: con paciencia, cuidado y mucho detalle 🌸</i>
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="128" alt="Flores de lavanda en pixel art" />
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="128" alt="Flores de lavanda en pixel art" />
+  <br />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" alt="" />
