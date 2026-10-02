@@ -53,7 +53,7 @@ Habilidad para estructurar proyectos, gestionar flujos de trabajo colaborativos 
 </tr>
 </table>
 
-<img align="left" height="200" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif](https://giphy.com/gifs/jinkx-gato-jinx-YfIqRqgD6HxsPTIwfg" alt="Anime coding gif"/>
+<img align="left" height="200" src="https://giphy.com/gifs/jinkx-gato-jinx-YfIqRqgD6HxsPTIwfg" alt="Anime coding gif"/>
 
 ```diff
 hola, soy mar ✨.
