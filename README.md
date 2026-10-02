@@ -53,7 +53,7 @@ Habilidad para estructurar proyectos, gestionar flujos de trabajo colaborativos 
 </tr>
 </table>
 
-<img align="left" height="200" src="https://tenor.com/es/view/cat-heart-eye-gif-4810499928976001125" alt="Anime coding gif"/>
+<img align="left" height="180" src="https://media.tenor.com/4810499928976001125/cat-heart-eye.gif" alt="Cat Heart Eyes Pixel Art GIF"/>
 
 ```diff
 hola, soy mar ✨.
