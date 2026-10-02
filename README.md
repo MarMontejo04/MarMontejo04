@@ -65,6 +65,40 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 
 ---
 
+<h2 align="center">✨ Un poco más de mí</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle" width="30%">
+  <img height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
+</td>
+<td valign="middle" width="70%">
+
+```diff
++ Estudiante de noveno semestre de Ingeniería en Computación
++ Desarrolladora web apasionada por el diseño
++ También he trabajado con Java, C#, Unity, Kotlin y MariaDB
+- Siempre buscando que todo se vea increíble y funcione perfecto
+! Programadora full stack, creadora de interfaces y entusiasta de UI/UX
+# Desarrollo web · Frontend · Backend · Ingeniería de software
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
+</p>
+
+---
+
 ## 🛠️ Tecnologías
 
 ### 🌐 Web
@@ -135,40 +169,6 @@ Estructuración de proyectos, flujos de trabajo colaborativos con Git/GitHub y t
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarMontejo04&show_icons=true&hide_border=true&title_color=8E44AD&icon_color=BB8FCE&text_color=9B59B6" alt="Estadísticas de GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarMontejo04&layout=compact&hide_border=true&title_color=8E44AD&text_color=9B59B6" alt="Lenguajes más usados" />
-</p>
-
----
-
-<h2 align="center">✨ Un poco más de mí</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" valign="middle" width="30%">
-  <img height="180" src="https://media1.tenor.com/m/QsJUMsKoCGUAAAAd/cat-heart-eye.gif" alt="Gato pixel art con ojos de corazón" />
-</td>
-<td valign="middle" width="70%">
-
-```diff
-+ Estudiante de noveno semestre de Ingeniería en Computación
-+ Desarrolladora web apasionada por el diseño
-+ También he trabajado con Java, C#, Unity, Kotlin y MariaDB
-- Siempre buscando que todo se vea increíble y funcione perfecto
-! Programadora full stack, creadora de interfaces y entusiasta de UI/UX
-# Desarrollo web · Frontend · Backend · Ingeniería de software
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<p align="center">
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
-  <img src="https://media.tenor.com/WoC59hWtHkoAAAAi/lavender-wildflowers.gif" height="110" alt="Flores de lavanda en pixel art" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=100&section=footer" alt="" />
