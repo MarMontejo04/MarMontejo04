@@ -52,3 +52,14 @@ Habilidad para estructurar proyectos, gestionar flujos de trabajo colaborativos 
 </td>
 </tr>
 </table>
+
+<img align="left" height="200" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Anime coding gif"/>
+
+```diff
+hola, soy mar ✨.
+
+@@ estudiante de ingeniería en computación. @@
++ desarrolladora web y apasionada por el diseño.
+- siempre buscando que todo se vea increíble y funcione perfecto.
+! programadora full stack, creadora de interfaces y entusiasta de UI/UX.
+# 📖 desarrollo web, frontend, backend, ingeniería de software.
