@@ -16,7 +16,7 @@
 
 ---
 
-## 💜 Lo que hago
+## Lo que hago
 
 <table>
 <tr>
